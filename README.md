@@ -1,1 +1,1 @@
-# food-pantry-registry
+# Food Pantry Registry
